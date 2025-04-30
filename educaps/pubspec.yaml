@@ -1,0 +1,29 @@
+name: educaps
+description: A Flutter application integrated with Firebase and Supabase.
+
+publish_to: 'none' 
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^2.10.0
+  google_fonts: ^2.3.2
+  shared_preferences: ^2.0.13
+  supabase_flutter: ^0.3.0
+  flutter_quill: ^6.0.0
+  flutter_localizations:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/  # Add your asset paths here if needed
+    - assets/icons/    # Add your asset paths here if needed

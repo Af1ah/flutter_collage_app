@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "941625134931",
+    "project_id": "collagedash",
+    "storage_bucket": "collagedash.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941625134931:android:dd7b52282eac860177dba6",
+        "android_client_info": {
+          "package_name": "com.example.educaps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBks4HgLT7cX9hybXbNjhm-OA2gygZGDFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
